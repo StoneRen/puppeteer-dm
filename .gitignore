@@ -1,0 +1,33 @@
+#eclipse files
+.project
+.settings
+
+#webstorm
+.idea/
+
+data/**/*.csv
+data/**/*.log
+
+# temp files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+#log files
+.log
+
+#node
+node_modules/*
+.vscode/*
+npm-debug.log
+yarn.lock
+
+# Vim swap files
+*.sw*
+
+# debug
+*debug/
+dist/
+
+# sails
+.tmp/
